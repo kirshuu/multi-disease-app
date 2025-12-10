@@ -1,0 +1,24 @@
+{
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "class_names": [
+    "No Disease",
+    "Disease"
+  ],
+  "target_name": "target",
+  "metric": "accuracy",
+  "metric_value": 0.0
+}

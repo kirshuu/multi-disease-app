@@ -1,0 +1,19 @@
+{
+  "feature_names": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "class_names": [
+    "No Diabetes",
+    "Diabetes"
+  ],
+  "target_name": "Outcome",
+  "metric": "accuracy",
+  "metric_value": 0.0
+}
